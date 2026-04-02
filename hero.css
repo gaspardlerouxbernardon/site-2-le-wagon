@@ -1,0 +1,20 @@
+.hero {
+  background-image: linear-gradient(rgba(24, 24, 24, 0.45), rgba(24, 24, 24, 0.45)), url("../../images/hero-route.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding: 140px 0;
+}
+
+.hero h1,
+.hero h2 {
+  color: #ffffff;
+}
+
+.hero h2 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  max-width: 650px;
+  margin-bottom: 34px;
+}
